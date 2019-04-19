@@ -5,25 +5,20 @@
             "text": "主页",
             "target": "index.md",
             "toc": false
-        },
-		{
-            "text": "车门力",
-            "target": "201904/车门力/车门关力测试.md",
-            "toc": false
-        },
+        }
         {
-            "text": "笔记本",
-            "target": "201904/_vnote.json",
+            "text": "文档",
+            "target": "_vnote.json",
             "navi": true,
-            "navi_index": "201904/车门力/车门关力测试.md"
+            "navi_index": "doc/index.md"
         }
     ],
     "actions":
     [
         {
-            "text": "Viki",
+            "text": "WeiZhi",
             "icon": "css/viki_white.svg",
-            "target": "https://tamlok.github.io/viki/"
+            "target": "https://www.weizhi.com/"
         }
     ]
 }
